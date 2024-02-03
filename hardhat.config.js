@@ -46,7 +46,7 @@ module.exports = {
         count: 1,
         passphrase: mnemonicPassword,
       },
-      gasPrice: 6000000000,
+      gasPrice: 1200000000,
     }
   },
   paths: {
